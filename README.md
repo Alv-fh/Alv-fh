@@ -5,6 +5,10 @@
 
 ## Hello, I'm Alv-fh 👋
 
+📚 I am a Pentester in the learning phase 
+🔴 Red Team
+
+
 ## You can find me 🌍:
 
 <a href="https://linkedin.com/in/álvaro-falcón-hernández-76699b274/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
