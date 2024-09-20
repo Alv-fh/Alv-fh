@@ -21,19 +21,19 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,debian&perline=12" />
   </a>
-
+_____________________________________________________________________________________________
 ### > Programming Languages <
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,python&perline=12" />
   </a>
-
+_____________________________________________________________________________________________
 ### > Text editors <
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,powershell,cmd&perline=12" />
+    <img src="https://skillicons.dev/icons?i=vim,powershell&perline=12" />
   </a>
-
+_____________________________________________________________________________________________
 
 
 
