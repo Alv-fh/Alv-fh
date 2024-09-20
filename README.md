@@ -5,10 +5,10 @@
 
 ## You can find me 🌍:
 
-<a href="https://linkedin.com/in/álvaro-falcón-hernández-76699b274/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/alvaroo.fh/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/@Alv-fh" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href = "mailto:alvaritofalcon26@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@alvaritofalcon26@gmail.com"  /></a>
+<a href="https://linkedin.com/in/álvaro-falcón-hernández-76699b274/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/alvaroo.fh/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/@Alv-fh" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href = "mailto:alvaritofalcon26@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@alvaritofalcon26@gmail.com"  /></a>
 
 
 ![](https://komarev.com/ghpvc/?username=Alv-fh&color=00defc&style=for-the-badge)
