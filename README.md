@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Alv-fh&color=00defc&style=plastic)
+![](https://komarev.com/ghpvc/?username=Alv-fh&color=00defc&style=for-the-badge)
 
 <!--
 **Alv-fh/Alv-fh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
