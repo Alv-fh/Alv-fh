@@ -31,7 +31,7 @@
 ### > Text editors <
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nano,vim&perline=12" />
+    <img src="https://skillicons.dev/icons?i=vim,powershell,cmd&perline=12" />
   </a>
 
 
