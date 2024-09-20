@@ -1,5 +1,5 @@
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Whoami
 
 ![BANNER-ALV-FH](https://github.com/user-attachments/assets/de240673-f1ab-45f6-8f77-39cfdb8e8a8c)
 
