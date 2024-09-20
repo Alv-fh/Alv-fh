@@ -7,12 +7,12 @@
 <a href="https://linkedin.com/in/álvaro-falcón-hernández-76699b274/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "mailto:alvaritofalcon26@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@alvaritofalcon26@gmail.com"  /></a>
 
-### What do I master?
+## What do I master?
 
-Operating Systems
+### Operating Systems
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,ubuntu,windows&perline=12" />
+    <img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,debian&perline=12" />
   </a>
 
 
