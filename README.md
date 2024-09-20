@@ -15,6 +15,17 @@
 
 
 ## What do I master?
+| Category | Name |
+|----------|----------|
+| Operating System    | <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,debian&perline=12" /></a>   |                                                                          
+| Programming Languages    | <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,python&perline=12" />  </a>   |
+
+| Row 3    | Cell 8   | 
+
+
+
 
 ### > Operating Systems <
 
