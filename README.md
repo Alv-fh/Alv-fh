@@ -1,4 +1,4 @@
-# Whoami 👨‍💻 
+# Whoami 🕵️‍♂️ 
 
 
 ![BANNER-ALV-FH](https://github.com/user-attachments/assets/de240673-f1ab-45f6-8f77-39cfdb8e8a8c)
@@ -22,8 +22,11 @@
     <img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,debian&perline=12" />
   </a>
 
-### Offensive Tools of Cibersecurity
+### Programming Languages
 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,python&perline=12" />
+  </a>
 
 
 
