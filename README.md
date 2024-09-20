@@ -1,4 +1,4 @@
-# Whoami 
+# Whoami 👨‍💻 
 
 
 ![BANNER-ALV-FH](https://github.com/user-attachments/assets/de240673-f1ab-45f6-8f77-39cfdb8e8a8c)
