@@ -28,10 +28,10 @@
     <img src="https://skillicons.dev/icons?i=bash,python&perline=12" />
   </a>
 
-### > Publishing platforms <
+### > Text editors <
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,blogger,medium&perline=12" />
+    <img src="https://skillicons.dev/icons?i=nano,vim&perline=12" />
   </a>
 
 
