@@ -16,13 +16,13 @@
 
 ## What do I master?
 
-### Operating Systems
+### > Operating Systems 
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,debian&perline=12" />
   </a>
 
-### Programming Languages
+### > Programming Languages
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,python&perline=12" />
