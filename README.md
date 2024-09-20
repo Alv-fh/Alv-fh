@@ -5,7 +5,7 @@
 ![BANNER-ALV-FH](https://github.com/user-attachments/assets/de240673-f1ab-45f6-8f77-39cfdb8e8a8c)
 
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#00defc', 'W7W313M7FS');kofiwidget2.draw();</script> 
 <!--
 **Alv-fh/Alv-fh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
