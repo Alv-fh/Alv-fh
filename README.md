@@ -1,4 +1,6 @@
-# Whoami 🕵️‍♂️ 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture> 
 
 
 ![BANNER-ALV-FH](https://github.com/user-attachments/assets/de240673-f1ab-45f6-8f77-39cfdb8e8a8c)
@@ -15,18 +17,6 @@
 
 
 ## What do I master?
-| Category | Name |
-|----------|----------|
-| Operating System    | <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,debian&perline=12" /></a>   |                                                                          
-| Programming Languages    | <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,python&perline=12" />  </a>   |
-
-| Row 3    | Cell 8   | 
-
-
-
-
 ### > Operating Systems <
 
 <a href="https://skillicons.dev">
