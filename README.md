@@ -7,9 +7,11 @@
 
 📚 I am a Pentester in the learning phase 
 
+🎓 Technique in Microcomputer Systems and Networks
+
 🔴 Red Team
 
-🎓 Technique in Microcomputer Systems and Networks
+📫 Contact: alvaritofalcon26@gmail.com
 
 ## You can find me 🌍:
 
