@@ -6,8 +6,10 @@
 ## Hello, I'm Alv-fh 👋
 
 📚 I am a Pentester in the learning phase 
+
 🔴 Red Team
 
+🎓 Technique in Microcomputer Systems and Networks
 
 ## You can find me 🌍:
 
