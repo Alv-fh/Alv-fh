@@ -4,7 +4,7 @@
 
 ![BANNER-ALV-FH](https://github.com/user-attachments/assets/de240673-f1ab-45f6-8f77-39cfdb8e8a8c)
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
 **Alv-fh/Alv-fh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
