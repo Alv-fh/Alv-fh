@@ -43,7 +43,11 @@
     <img src="https://skillicons.dev/icons?i=vim,powershell&perline=12" />
   </a>
 
+### > Notes Database <
 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=Notion,obsidian&perline=12" />
+  </a>
 
 ### Goal for EJPTv2 > $249
 
