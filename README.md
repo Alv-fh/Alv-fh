@@ -34,7 +34,7 @@
 ### > Programming Languages <
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,python&perline=12" />
+    <img src="https://skillicons.dev/icons?i=bash,python,md&perline=12" />
   </a>
 
 ### > Text editors <
