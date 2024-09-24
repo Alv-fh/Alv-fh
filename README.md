@@ -24,6 +24,9 @@
 ![](https://komarev.com/ghpvc/?username=Alv-fh&color=00defc&style=for-the-badge)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alv-fh&show_icons=true&theme=radical)
+
+
 ## What do I master?
 ### > Operating Systems <
 
