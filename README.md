@@ -46,6 +46,12 @@
     <img src="https://skillicons.dev/icons?i=vim,powershell&perline=12" />
   </a>
 
+### > Version Control <
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,&perline=12" />
+  </a>
+
 ### > Notes Database <
 
 <a href="https://skillicons.dev">
