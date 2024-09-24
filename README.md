@@ -24,6 +24,10 @@
 ![](https://komarev.com/ghpvc/?username=Alv-fh&color=00defc&style=for-the-badge)
 
 
+
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="57" height="57" /></div>
+
 ## What do I master?
 ### > Operating Systems <
 
