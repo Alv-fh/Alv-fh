@@ -21,11 +21,12 @@
 <a href = "mailto:alvaritofalcon26@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@alvaritofalcon26@gmail.com"  /></a>
 
 ## What do I master? 📝
-### > Operating Systems <
 
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,debian&perline=12" />
-  </a>
+
+| Operating Systems | 
+| ----------------- |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,debian&perline=12" /></a> |
+
 
 ### > Programming Languages <
 
