@@ -28,7 +28,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alv-fh&show_icons=true&theme=tokyonight)
 
 
-## What do I master?
+## What do I master? 📝
 ### > Operating Systems <
 
 <a href="https://skillicons.dev">
