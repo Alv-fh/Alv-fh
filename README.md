@@ -20,14 +20,6 @@
 <a href="https://www.youtube.com/@Alv-fh" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href = "mailto:alvaritofalcon26@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@alvaritofalcon26@gmail.com"  /></a>
 
-### Stats 📈:
-
-![](https://komarev.com/ghpvc/?username=Alv-fh&color=00defc&style=for-the-badge)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alv-fh&show_icons=true&theme=tokyonight)
-
-
 ## What do I master? 📝
 ### > Operating Systems <
 
@@ -62,3 +54,11 @@
 ### Goal for EJPTv2 > $249
 
 <a href='https://ko-fi.com/W7W313M7FS' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+## Stats 📈:
+
+![](https://komarev.com/ghpvc/?username=Alv-fh&color=00defc&style=for-the-badge)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alv-fh&show_icons=true&theme=tokyonight)
+
