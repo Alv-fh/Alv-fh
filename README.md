@@ -28,29 +28,20 @@
 | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,debian&perline=12" /></a> |
 
 
-### > Programming Languages <
+| Programming Languages |
+| --------------------- |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,python,md&perline=12" /></a> |
 
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,python,md&perline=12" />
-  </a>
+| Text editors |
+| ------------ |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vim,powershell&perline=12" /></a> |
 
-### > Text editors <
+| Version Control |
+| --------------- |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,&perline=12" /></a> |
 
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,powershell&perline=12" />
-  </a>
-
-### > Version Control <
-
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,&perline=12" />
-  </a>
-
-### > Notes Database <
-
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,obsidian&perline=12" />
-  </a>
+| Notes Database |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=notion,obsidian&perline=12" /></a> |
 
 ### Goal for EJPTv2 > $249
 
