@@ -20,6 +20,7 @@
 <a href="https://www.youtube.com/@Alv-fh" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href = "mailto:alvaritofalcon26@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@alvaritofalcon26@gmail.com"  /></a>
 
+### Stats 📈:
 
 ![](https://komarev.com/ghpvc/?username=Alv-fh&color=00defc&style=for-the-badge)
 
