@@ -27,10 +27,14 @@
 | ----------------- |
 | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,debian&perline=12" /></a> |
 
-
 | Programming Languages |
 | --------------------- |
 | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,python,md&perline=12" /></a> |
+
+| CMS |
+| --- |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=wordpress,joomla&perline=12" /></a>
+
 
 | Text editors |
 | ------------ |
