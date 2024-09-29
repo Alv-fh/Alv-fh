@@ -22,6 +22,12 @@
 
 ## What do I master? 📝
 
+| Operating Systems | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,debian&perline=12" /></a> |
+|-------------------------------------------------------------------------------------------------------------------------------------------- |
+
+
+
+
 
 | Operating Systems | 
 | ----------------- |
@@ -35,6 +41,9 @@
 | --- |
 | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=wordpress,joomla&perline=12" /></a>
 
+| DevOps Tools |
+| ------------ |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker&perline=12" /></a> |
 
 | Text editors |
 | ------------ |
