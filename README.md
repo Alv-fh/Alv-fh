@@ -22,13 +22,6 @@
 
 ## What do I master? 📝
 
-| Operating Systems | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,debian&perline=12" /></a> |
-| -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Programming Languages | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,python,md&perline=12" /></a> |
-| -------------------------------------------------------------------------------------------------------------------------------------------- |
-
-
-
 
 | Operating Systems | 
 | ----------------- |
