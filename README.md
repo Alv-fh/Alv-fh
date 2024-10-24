@@ -1,7 +1,7 @@
 
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Whoami
 
-![BANNER-ALV-FH](https://github.com/user-attachments/assets/de240673-f1ab-45f6-8f77-39cfdb8e8a8c)
+![banner_actualizadp_alv-fh](https://github.com/user-attachments/assets/01dc46f4-bead-4056-a547-b2c7e22f5998)
 
 ## Hello, I'm Alv-fh 👋
 
