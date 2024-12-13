@@ -32,11 +32,6 @@
 | **Version Control**      | <img src="https://skillicons.dev/icons?i=git,&perline=12" /></a> |
 | **Notes Database**       | <img src="https://skillicons.dev/icons?i=notion,obsidian&perline=12" /></a> |
 
-
-### Goal for EJPTv2 > $249
-
-<a href='https://ko-fi.com/W7W313M7FS' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
 ## Stats 📈:
 
 ![](https://komarev.com/ghpvc/?username=Alv-fh&color=00defc&style=for-the-badge)
