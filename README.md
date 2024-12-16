@@ -22,12 +22,13 @@
 📫 Contact: alvaritofalcon26@gmail.com
 
 
-## You can find me 🌍:
-
-<a href="https://linkedin.com/in/alv-fh/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://alv-fh.github.io" target="_blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog&color=222222&logo=GitHub&logoColor=BBDDE5&label="/></a>
-<a href="https://www.youtube.com/@Alv-fh/videos" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href = "mailto:alvaritofalcon26@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@alvaritofalcon26@gmail.com"  /></a>
+## You can find me 🌍
+<div align="center">
+  <a href="https://linkedin.com/in/alv-fh/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://alv-fh.github.io" target="_blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog&color=222222&logo=GitHub&logoColor=BBDDE5&label="/></a>
+  <a href="https://www.youtube.com/@Alv-fh/videos" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href = "mailto:alvaritofalcon26@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@alvaritofalcon26@gmail.com"  /></a>
+</div>
 
 ## Knowledge & Skills 📝
 
