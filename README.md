@@ -1,22 +1,26 @@
 
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Whoami
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00DEFC&width=435&lines=Ethical+Hacker;Divide+and+Conquer)](https://git.io/typing-svg)
-
 ![banner_actualizadp_alv-fh](https://github.com/user-attachments/assets/01dc46f4-bead-4056-a547-b2c7e22f5998)
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00DEFC&width=435&lines=Ethical+Hacker;Divide+and+Conquer" alt="Typing SVG" />
+  </a>
+</div>
 
 <h2 align="left">
   Hi, I'm Alv-fh
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-📚 I am a Pentester in the learning phase 
+📚 I'm a Junior Pentester
 
-🎓 Technique in Microcomputer Systems and Networks
+🎓 ASIR in process | Technique in Microcomputer Systems and Networks
 
 🔴 Red Team
 
 📫 Contact: alvaritofalcon26@gmail.com
+
 
 ## You can find me 🌍:
 
