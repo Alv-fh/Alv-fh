@@ -3,7 +3,7 @@
 
 ![banner](https://github.com/user-attachments/assets/9b8562c4-d838-489d-8bcc-d51e85dfe6ba)
 
-<div align="left">
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EA0000&width=435&lines=Ethical+Hacker;Divide+and+Conquer" alt="Typing SVG" />
   </a>
 </div>
@@ -60,11 +60,10 @@
     
   </div>
 </div>
+<details> 
+  <summary><h2>Stats 📈:</h2></summary>
+    <a href=https://komarev.com/ghpvc/?username=Alv-fh&color=ff1a1a&style=for-the-badge"></a>
 
-## Stats 📈:
 
-![](https://komarev.com/ghpvc/?username=Alv-fh&color=00defc&style=for-the-badge)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alv-fh&show_icons=true&theme=tokyonight)
-
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alv-fh&show_icons=true&theme=tokyonight)
+</details>
