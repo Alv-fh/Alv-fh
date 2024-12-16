@@ -22,7 +22,7 @@
 📫 Contact: alvaritofalcon26@gmail.com
 
 
-## You can find me 🌍
+## 🌍 You can find me 
 <div align="center">
   <a href="https://linkedin.com/in/alv-fh/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://alv-fh.github.io" target="_blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog&color=222222&logo=GitHub&logoColor=BBDDE5&label="/></a>
@@ -30,7 +30,7 @@
   <a href = "mailto:alvaritofalcon26@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@alvaritofalcon26@gmail.com"  /></a>
 </div>
 
-## Knowledge & Skills 📝
+## 📝 Knowledge & Skills 
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -62,9 +62,9 @@
   </div>
 </div>
 <details> 
-  <summary><h2>Stats 📈:</h2></summary>
+  <summary><h2>📈 Stats</h2></summary>
     <a href=https://komarev.com/ghpvc/?username=Alv-fh&color=ff1a1a&style=for-the-badge"></a>
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alv-fh&show_icons=true&theme=tokyonight)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alv-fh&show_icons=true&theme=shadow_red)
 </details>
