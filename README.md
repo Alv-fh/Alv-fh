@@ -1,10 +1,10 @@
 
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Whoami
 
-![banner_actualizadp_alv-fh](https://github.com/user-attachments/assets/01dc46f4-bead-4056-a547-b2c7e22f5998)
+![banner](https://github.com/user-attachments/assets/9b8562c4-d838-489d-8bcc-d51e85dfe6ba)
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00DEFC&width=435&lines=Ethical+Hacker;Divide+and+Conquer" alt="Typing SVG" />
+<div align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EA0000&width=435&lines=Ethical+Hacker;Divide+and+Conquer" alt="Typing SVG" />
   </a>
 </div>
 
