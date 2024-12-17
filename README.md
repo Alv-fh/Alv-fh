@@ -1,7 +1,11 @@
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Whoami
 
 <img src="https://github.com/user-attachments/assets/9b8562c4-d838-489d-8bcc-d51e85dfe6ba">
-<div align="center">
+<br>
+<br>
+<br>
+<br>
+<div align="right">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F70000&width=435&lines=Ethical+Hacker;Divide+and+Conquer;Rooted+in+Excellence;Adapt+and+Overcome" alt="Typing SVG" />
   </a>
 </div>
