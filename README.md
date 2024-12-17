@@ -1,7 +1,6 @@
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Whoami
 
-![banner](https://github.com/user-attachments/assets/9b8562c4-d838-489d-8bcc-d51e85dfe6ba)
-
+<img src="https://github.com/user-attachments/assets/9b8562c4-d838-489d-8bcc-d51e85dfe6ba">
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EA0000&width=435&lines=Ethical+Hacker;Divide+and+Conquer" alt="Typing SVG" />
   </a>
@@ -38,7 +37,6 @@
   <summary><h2 align="center">📝 Knowledge & Skills</h2></summary>
 
   <br>
-  <!-- Operating System Section -->
   <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
     <h3 align="center">⚙️ Operating System</h3>
     <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -47,11 +45,13 @@
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
         <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Debian" />
         <img src="https://img.shields.io/badge/XFCE-2284F2?style=for-the-badge&logo=xfce&color=000000" alt="XFCE" />
+        <img src="https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=lubuntu&color=000000" alt="Lubuntu" />
+        <img src="https://img.shields.io/badge/Xubuntu-0044AA?style=for-the-badge&logo=xubuntu&color=000000" alt="Xubuntu" />
+        <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&color=000000" alt="Windows" />
     </div>
   </div>
 
   <br>
-  <!-- Virtualization & Cloud Section -->
   <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
     <h3 align="center">☁️ Virtualization & Cloud</h3>
     <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -64,7 +64,6 @@
   </div>
 
   <br>
-  <!-- Tools & Utilities Section -->
   <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
     <h3 align="center">🛠️ Tools & Utilities</h3>
     <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -77,7 +76,6 @@
   </div>
 
   <br>
-  <!-- Programming & Development Section -->
   <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
     <h3 align="center">💻 Programming & Development</h3>
     <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -91,26 +89,23 @@
   </div>
 
   <br>
-  <!-- Others Section -->
   <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
     <h3 align="center">📡 Others</h3>
     <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
         <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&color=000000" alt="Apache" />
+        <img src="https://img.shields.io/badge/IIS-000000?style=for-the-badge&logo=iis&color=000000" alt="IIS" />
+        <img src="https://img.shields.io/badge/nginx-000000?style=for-the-badge&logo=iis&color=000000" alt="IIS" />
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&color=000000" alt="Discord" />
+        <img src="https://img.shields.io/badge/Tomcat-000000?style=for-the-badge&logo=tomcat&color=000000" alt="Tomcat" />
     </div>
   </div>
 </details>
-
-
 <br>
 <br>
-
-
 <details>
   <summary><h2 align="center">🛠️ Pentesting tools that I master</h2></summary>
 
   <br>
-  <!-- Tools for Reconnaissance -->
   <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
     <h3 align="center">🔍 Tools for Reconnaissance | Passive and Active</h3>
     <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -127,34 +122,52 @@
         <img src="https://img.shields.io/badge/WhatWeb-000000?style=for-the-badge&logo=whatweb&color=000000" alt="WhatWeb" />
         <img src="https://img.shields.io/badge/Whois-000000?style=for-the-badge&logo=whois&color=000000" alt="Whois" />
         <img src="https://img.shields.io/badge/ARP_Scan-000000?style=for-the-badge&logo=arp_scan&color=000000" alt="ARP-Scan" />
+        <img src="https://img.shields.io/badge/NetDiscover-000000?style=for-the-badge&logo=netdiscover&color=000000" alt="netdiscover" />
         <img src="https://img.shields.io/badge/fping-000000?style=for-the-badge&logo=fping&color=000000" alt="fping" />
+        <img src="https://img.shields.io/badge/Curl-073551?style=for-the-badge&logo=curl&color=000000" alt="curl" />
+        <img src="https://img.shields.io/badge/dig-000000?style=for-the-badge&logo=dig&color=000000" alt="dig" />
+        <img src="https://img.shields.io/badge/dirbuster-000000?style=for-the-badge&logo=dirbuster&color=000000" alt="dirbuster" />
+        <img src="https://img.shields.io/badge/dnsenum-000000?style=for-the-badge&logo=dnsenum&color=000000" alt="dnsenum" />
+        <img src="https://img.shields.io/badge/fierce-000000?style=for-the-badge&logo=fierce&color=000000" alt="fierce" />
+        <img src="https://img.shields.io/badge/gobuster-000000?style=for-the-badge&logo=gobuster&color=000000" alt="gobuster" />
+        <img src="https://img.shields.io/badge/wfuzz-000000?style=for-the-badge&logo=wfuzz&color=000000" alt="wfuzz" />
     </div>
   </div>
 
   <br>
-  <!-- Tools for Exploitation -->
   <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
     <h3 align="center">💥 Tools for Exploitation</h3>
     <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
         <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
         <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
+        <img src="https://img.shields.io/badge/cadaver-000000?style=for-the-badge&logo=cadaver&color=000000" alt="cadaver" />
+        <img src="https://img.shields.io/badge/crackmapexec-000000?style=for-the-badge&logo=crackmapexec&color=000000" alt="crackmapexec" />
+        <img src="https://img.shields.io/badge/davtest-000000?style=for-the-badge&logo=davtest&color=000000" alt="davtest" />
+        <img src="https://img.shields.io/badge/evil_winrm-000000?style=for-the-badge&logo=evil_winrm&color=000000" alt="evil_winrm" />
+        <img src="https://img.shields.io/badge/hexedit-000000?style=for-the-badge&logo=hexedit&color=000000" alt="hexedit" />
+        <img src="https://img.shields.io/badge/hydra-000000?style=for-the-badge&logo=hydra&color=000000" alt="hydra" />
+        <img src="https://img.shields.io/badge/msfvenom-000000?style=for-the-badge&logo=msfvenom&color=000000" alt="msfvenom" />
+        <img src="https://img.shields.io/badge/rpcclient-000000?style=for-the-badge&logo=rpcclient&color=000000" alt="rpcclient" />
+        <img src="https://img.shields.io/badge/smbclient-000000?style=for-the-badge&logo=smbclient&color=000000" alt="smbclient" />
+        <img src="https://img.shields.io/badge/smbmap-000000?style=for-the-badge&logo=smbmap&color=000000" alt="smbmap" />
+        <img src="https://img.shields.io/badge/wpscan-000000?style=for-the-badge&logo=wpscan&color=000000" alt="wpscan" />
+        <img src="https://img.shields.io/badge/xfreerdp-000000?style=for-the-badge&logo=xfreerdp&color=000000" alt="xfreerdp" />
     </div>
   </div>
 
   <br>
-  <!-- Tools for Cracking Passwords -->
   <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-    <h3 align="center">🔓 Tools for Cracking Passwords</h3>
+    <h3 align="center">🔓 Hash-Related Tools</h3>
     <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
         <img src="https://img.shields.io/badge/John-000000?style=for-the-badge&logo=john&color=000000" alt="John The Ripper" />
         <img src="https://img.shields.io/badge/HashCat-000000?style=for-the-badge&logo=hashcat&color=000000" alt="HashCat" />
+        <img src="https://img.shields.io/badge/ssh2john-000000?style=for-the-badge&logo=ssh2john&color=000000" alt="ssh2john" />
+        <img src="https://img.shields.io/badge/mimikatz-000000?style=for-the-badge&logo=mimikatz&color=000000" alt="mimikatz" />
     </div>
   </div>
 </details>
-
 <br>
 <br>
-
 <details>  
   <summary><h2 align="center">📈 Stats</h2></summary>
   <p align="center">
