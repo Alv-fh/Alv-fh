@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/9b8562c4-d838-489d-8bcc-d51e85dfe6ba">
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EA0000&width=435&lines=Ethical+Hacker;Divide+and+Conquer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F70000&width=435&lines=Ethical+Hacker;Divide+and+Conquer;Rooted+in+Excellence;Adapt+and+Overcome" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,13 +22,17 @@
 <br>
 <br>
 
-## 🌍 You can find me 
-<div align="center">
+<details>
+  <summary><h2 align="center">🌍 You can find me</h2></summary> 
+
+  <br>
+  <div align="center">
   <a href="https://linkedin.com/in/alv-fh/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://alv-fh.github.io" target="_blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog&color=222222&logo=GitHub&logoColor=BBDDE5&label="/></a>
   <a href="https://www.youtube.com/@Alv-fh/videos" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href = "mailto:alvaritofalcon26@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@alvaritofalcon26@gmail.com"  /></a>
-</div>
+  </div>
+</details
 
 <br>
 <br>
@@ -47,6 +51,7 @@
         <img src="https://img.shields.io/badge/XFCE-2284F2?style=for-the-badge&logo=xfce&color=000000" alt="XFCE" />
         <img src="https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=lubuntu&color=000000" alt="Lubuntu" />
         <img src="https://img.shields.io/badge/Xubuntu-0044AA?style=for-the-badge&logo=xubuntu&color=000000" alt="Xubuntu" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
         <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&color=000000" alt="Windows" />
     </div>
   </div>
@@ -80,7 +85,6 @@
     <h3 align="center">💻 Programming & Development</h3>
     <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
         <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
