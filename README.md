@@ -159,6 +159,10 @@
         <img src="https://img.shields.io/badge/smbmap-000000?style=for-the-badge&logo=smbmap&color=000000" alt="smbmap" />
         <img src="https://img.shields.io/badge/wpscan-000000?style=for-the-badge&logo=wpscan&color=000000" alt="wpscan" />
         <img src="https://img.shields.io/badge/xfreerdp-000000?style=for-the-badge&logo=xfreerdp&color=000000" alt="xfreerdp" />
+        <img src="https://img.shields.io/badge/imacket-000000?style=for-the-badge&logo=impacket&color=000000" alt="impacket" />
+        <img src="https://img.shields.io/badge/kerbrute-000000?style=for-the-badge&logo=kerbrute&color=000000" alt="kerbrute" />
+        <img src="https://img.shields.io/badge/xfreerdp-000000?style=for-the-badge&logo=xfreerdp&color=000000" alt="xfreerdp" />
+        <img src="https://img.shields.io/badge/bloodhound-000000?style=for-the-badge&logo=bloodhound&color=000000" alt="bloodhound" />
     </div>
   </div>
 
