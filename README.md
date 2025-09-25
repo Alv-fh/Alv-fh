@@ -163,7 +163,7 @@
         <img src="https://img.shields.io/badge/kerbrute-000000?style=for-the-badge&logo=kerbrute&color=000000" alt="kerbrute" />
         <img src="https://img.shields.io/badge/xfreerdp-000000?style=for-the-badge&logo=xfreerdp&color=000000" alt="xfreerdp" />
         <img src="https://img.shields.io/badge/bloodhound-000000?style=for-the-badge&logo=bloodhound&color=000000" alt="bloodhound" />
-        <img src="https://img.shields.io/badge/evil-winrm-000000?style=for-the-badge&logo=evil-winrm&color=000000" alt="evil-winrm" />
+        <img src="https://img.shields.io/badge/evilwinrm-000000?style=for-the-badge&logo=evilwinrm&color=000000" alt="evilwinrm" />
     </div>
   </div>
 
