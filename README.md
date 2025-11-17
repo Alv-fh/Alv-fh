@@ -68,6 +68,7 @@
         <img src="https://img.shields.io/badge/Hackthebox-9FEF00?style=for-the-badge&logo=hackthebox&color=000000" alt="Hack The Box" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
         <img src="https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=virtualbox&color=000000" alt="VirtualBox" />
+        <img src="https://img.shields.io/badge/VMWare-2F61B4?style=for-the-badge&logo=vmware&color=000000" alt="VMWare" />
     </div>
   </div>
 
