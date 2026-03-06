@@ -188,7 +188,8 @@
       <img src="https://komarev.com/ghpvc/?username=Alv-fh&color=ff1a1a&style=for-the-badge" alt="views badge"/>
     </a>
   </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Alv-fh&show_icons=true&theme=shadow_red" alt="GitHub stats"/>
-  </p>
+
+   <p align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=alv-fh&show_icons=true&theme=shadow_red"</img></p>
+ 
+  
 </details>
