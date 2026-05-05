@@ -14,9 +14,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-📚 I'm a Junior Pentester
+📚 I'm a Bug Hunter and Junior Pentester
 
-🎓 ASIR in process | Technique in Microcomputer Systems and Networks
+🎓 Networked Computer Systems Administration | Technique in Microcomputer Systems and Networks
 
 🔴 Red Team
 
